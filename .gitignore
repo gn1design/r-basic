@@ -39,3 +39,4 @@ rsconnect/
 
 ##Deleted by JB 
 .DS_Store
+*.R
